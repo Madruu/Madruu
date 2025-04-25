@@ -1,4 +1,4 @@
-## Hi there 👋
+## Activity
 ![Vitors GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madruu&show_icons=true&theme=radical)
 
 <!--
