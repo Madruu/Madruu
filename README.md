@@ -1,5 +1,4 @@
 ## Activity
-![Vitors GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madruu&show_icons=true&theme=radical)
 
 ---
 
@@ -22,7 +21,7 @@
 
 ---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(coloca seu link real aqui)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/vitordetulio/)
 
 ---
 
